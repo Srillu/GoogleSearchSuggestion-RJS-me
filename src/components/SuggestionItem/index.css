@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.search-Items-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  font-family: 'Roboto';
+}
+.arrow-icon {
+  width: 15px;
+  height: 15px;
+}
+.item-name {
+  font-size: 12px;
+  color: #475569;
+  text-align: left;
+  margin-left: 0px;
+  padding-left: 0px;
+}
